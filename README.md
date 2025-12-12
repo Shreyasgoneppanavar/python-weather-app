@@ -15,16 +15,16 @@ A simple and user-friendly **Weather Application** built using **Python and Flas
 ---
 
 ## Features
-- 🌡️ **Temperature** display  
-- 💧 **Humidity** information  
-- 🌬️ **Wind Speed**  
-- ☁️ **Sky Conditions** (Clear / Clouds / Rain etc.)  
-- 📡 Live weather data fetched via API  
-- 🔍 Search by city name
+-  **Temperature** display  
+-  **Humidity** information  
+-  **Wind Speed**  
+-  **Sky Conditions** (Clear / Clouds / Rain etc.)  
+-  Live weather data fetched via API  
+-  Search by city name
 
 ---
 
-## 📦 How to Run the Project
+##  How to Run the Project
 
 ### 1️⃣ Install required packages  
 ```bash
@@ -55,7 +55,7 @@ After running the app, open the following URL in your browser:
 http://127.0.0.1:5000
 ```
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ![Weather App Screenshot](https://github.com/Shreyasgoneppanavar/Python-Weather-App/blob/main/weather-app-1.png)
 ![Weather App Screenshot](https://github.com/Shreyasgoneppanavar/Python-Weather-App/blob/main/weather-app-2.png)
