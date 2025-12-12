@@ -59,3 +59,10 @@ http://127.0.0.1:5000
 
 ![Weather App Screenshot](https://github.com/Shreyasgoneppanavar/Python-Weather-App/blob/main/weather-app-1.png)
 ![Weather App Screenshot](https://github.com/Shreyasgoneppanavar/Python-Weather-App/blob/main/weather-app-2.png)
+
+---
+
+## Author
+
+Shreyas P Goneppanavar
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-goneppanavar-060272257/)
