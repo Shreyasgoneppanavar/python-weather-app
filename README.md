@@ -57,4 +57,4 @@ http://127.0.0.1:5000
 
 ## 🖼️ Screenshots
 
-![Weather App Screenshot](image_link_here)
+![Weather App Screenshot](https://github.com/Shreyasgoneppanavar/Python-Weather-App/blob/main/weather-app-1.png)
